@@ -25,7 +25,7 @@ c2.MostrarAtributos();
 c2.Depositar(20);
 c2.MostrarAtributos();
 
-Conta c3 = new Conta();
-c3.MostrarAtributos();
+//Conta c3 = new Conta();
+//c3.MostrarAtributos();
 
-double soma = 0;
+//double soma = 0;

@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.AssemblyInfo.cs
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.sourcelink.json
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.exe
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.deps.json
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.runtimeconfig.json
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.dll
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.pdb
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.dll
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\obj\Debug\net8.0\refint\ClasseProduto.dll
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.pdb
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.genruntimeconfig.cache
+C:\Users\aluno\Documents\POO-2025\POO_252_noite\ClasseProduto\obj\Debug\net8.0\ref\ClasseProduto.dll
