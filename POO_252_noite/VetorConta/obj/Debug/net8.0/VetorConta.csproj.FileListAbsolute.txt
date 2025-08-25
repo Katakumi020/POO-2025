@@ -1,0 +1,15 @@
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.sourcelink.json
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\bin\Debug\net8.0\VetorConta.exe
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\bin\Debug\net8.0\VetorConta.deps.json
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\bin\Debug\net8.0\VetorConta.runtimeconfig.json
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\bin\Debug\net8.0\VetorConta.dll
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\bin\Debug\net8.0\VetorConta.pdb
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.dll
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\obj\Debug\net8.0\refint\VetorConta.dll
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.pdb
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\obj\Debug\net8.0\VetorConta.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO-2025\POO_252_noite\VetorConta\obj\Debug\net8.0\ref\VetorConta.dll

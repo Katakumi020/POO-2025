@@ -3,8 +3,8 @@ using ClasseProduto;
 
 internal class Program{
     private static void Main(string[] args)
-    {
-    /*    Produto p1;
+    {/*
+        Produto p1;
 
         p1 = new Produto();
         p1.codigo = 1;
@@ -18,7 +18,10 @@ internal class Program{
         p1.MostrarAtributos();
         p1.CalcularSubtotal();
         p1.MostrarAtributos();
-    */
+*/
+        
+        produto p2;
+
         p2 = new Produto();
         Console.WriteLine("Informe o nome do produto: ");
         p2.nome = Console.ReadLine();
