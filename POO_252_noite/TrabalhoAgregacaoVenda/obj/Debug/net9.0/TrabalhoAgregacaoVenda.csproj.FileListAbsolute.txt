@@ -1,0 +1,15 @@
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\obj\Debug\net9.0\TrabalhoAgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\obj\Debug\net9.0\TrabalhoAgregacaoVenda.AssemblyInfoInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\obj\Debug\net9.0\TrabalhoAgregacaoVenda.AssemblyInfo.cs
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\obj\Debug\net9.0\TrabalhoAgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\obj\Debug\net9.0\TrabalhoAgregacaoVenda.sourcelink.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\bin\Debug\net9.0\TrabalhoAgregacaoVenda.exe
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\bin\Debug\net9.0\TrabalhoAgregacaoVenda.deps.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\bin\Debug\net9.0\TrabalhoAgregacaoVenda.runtimeconfig.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\bin\Debug\net9.0\TrabalhoAgregacaoVenda.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\bin\Debug\net9.0\TrabalhoAgregacaoVenda.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\obj\Debug\net9.0\TrabalhoAgregacaoVenda.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\obj\Debug\net9.0\refint\TrabalhoAgregacaoVenda.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\obj\Debug\net9.0\TrabalhoAgregacaoVenda.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\obj\Debug\net9.0\TrabalhoAgregacaoVenda.genruntimeconfig.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoAgregacaoVenda\obj\Debug\net9.0\ref\TrabalhoAgregacaoVenda.dll
