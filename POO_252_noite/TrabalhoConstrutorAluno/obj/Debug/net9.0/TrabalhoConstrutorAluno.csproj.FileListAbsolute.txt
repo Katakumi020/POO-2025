@@ -1,0 +1,15 @@
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\obj\Debug\net9.0\TrabalhoConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\obj\Debug\net9.0\TrabalhoConstrutorAluno.AssemblyInfoInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\obj\Debug\net9.0\TrabalhoConstrutorAluno.AssemblyInfo.cs
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\obj\Debug\net9.0\TrabalhoConstrutorAluno.csproj.CoreCompileInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\obj\Debug\net9.0\TrabalhoConstrutorAluno.sourcelink.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\bin\Debug\net9.0\TrabalhoConstrutorAluno.exe
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\bin\Debug\net9.0\TrabalhoConstrutorAluno.deps.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\bin\Debug\net9.0\TrabalhoConstrutorAluno.runtimeconfig.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\bin\Debug\net9.0\TrabalhoConstrutorAluno.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\bin\Debug\net9.0\TrabalhoConstrutorAluno.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\obj\Debug\net9.0\TrabalhoConstrutorAluno.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\obj\Debug\net9.0\refint\TrabalhoConstrutorAluno.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\obj\Debug\net9.0\TrabalhoConstrutorAluno.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\obj\Debug\net9.0\TrabalhoConstrutorAluno.genruntimeconfig.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoConstrutorAluno\obj\Debug\net9.0\ref\TrabalhoConstrutorAluno.dll
