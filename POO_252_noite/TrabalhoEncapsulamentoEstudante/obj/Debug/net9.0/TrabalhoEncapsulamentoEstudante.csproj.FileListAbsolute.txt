@@ -1,0 +1,15 @@
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.AssemblyInfoInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.AssemblyInfo.cs
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.csproj.CoreCompileInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.sourcelink.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\bin\Debug\net9.0\TrabalhoEncapsulamentoEstudante.exe
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\bin\Debug\net9.0\TrabalhoEncapsulamentoEstudante.deps.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\bin\Debug\net9.0\TrabalhoEncapsulamentoEstudante.runtimeconfig.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\bin\Debug\net9.0\TrabalhoEncapsulamentoEstudante.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\bin\Debug\net9.0\TrabalhoEncapsulamentoEstudante.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\refint\TrabalhoEncapsulamentoEstudante.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.genruntimeconfig.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\ref\TrabalhoEncapsulamentoEstudante.dll
