@@ -1,0 +1,15 @@
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\bin\Debug\net9.0\ClasseAbstrata.exe
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\bin\Debug\net9.0\ClasseAbstrata.deps.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\bin\Debug\net9.0\ClasseAbstrata.runtimeconfig.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\bin\Debug\net9.0\ClasseAbstrata.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\bin\Debug\net9.0\ClasseAbstrata.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\obj\Debug\net9.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\obj\Debug\net9.0\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\obj\Debug\net9.0\ClasseAbstrata.AssemblyInfo.cs
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\obj\Debug\net9.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\obj\Debug\net9.0\ClasseAbstrata.sourcelink.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\obj\Debug\net9.0\ClasseAbstrata.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\obj\Debug\net9.0\refint\ClasseAbstrata.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\obj\Debug\net9.0\ClasseAbstrata.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\obj\Debug\net9.0\ClasseAbstrata.genruntimeconfig.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ClasseAbstrata\obj\Debug\net9.0\ref\ClasseAbstrata.dll

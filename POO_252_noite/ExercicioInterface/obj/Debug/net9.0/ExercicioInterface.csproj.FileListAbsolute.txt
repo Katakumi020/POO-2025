@@ -1,0 +1,15 @@
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\bin\Debug\net9.0\ExercicioInterface.exe
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\bin\Debug\net9.0\ExercicioInterface.deps.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\bin\Debug\net9.0\ExercicioInterface.runtimeconfig.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\bin\Debug\net9.0\ExercicioInterface.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\bin\Debug\net9.0\ExercicioInterface.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.AssemblyInfo.cs
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.sourcelink.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\obj\Debug\net9.0\refint\ExercicioInterface.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\obj\Debug\net9.0\ExercicioInterface.genruntimeconfig.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioInterface\obj\Debug\net9.0\ref\ExercicioInterface.dll

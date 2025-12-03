@@ -1,0 +1,15 @@
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\bin\Debug\net9.0\TrabalhoComposicaoBanco.exe
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\bin\Debug\net9.0\TrabalhoComposicaoBanco.deps.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\bin\Debug\net9.0\TrabalhoComposicaoBanco.runtimeconfig.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\bin\Debug\net9.0\TrabalhoComposicaoBanco.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\bin\Debug\net9.0\TrabalhoComposicaoBanco.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\obj\Debug\net9.0\TrabalhoComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\obj\Debug\net9.0\TrabalhoComposicaoBanco.AssemblyInfoInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\obj\Debug\net9.0\TrabalhoComposicaoBanco.AssemblyInfo.cs
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\obj\Debug\net9.0\TrabalhoComposicaoBanco.csproj.CoreCompileInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\obj\Debug\net9.0\TrabalhoComposicaoBanco.sourcelink.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\obj\Debug\net9.0\TrabalhoComposicaoBanco.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\obj\Debug\net9.0\refint\TrabalhoComposicaoBanco.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\obj\Debug\net9.0\TrabalhoComposicaoBanco.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\obj\Debug\net9.0\TrabalhoComposicaoBanco.genruntimeconfig.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\TrabalhoComposicaoBanco\obj\Debug\net9.0\ref\TrabalhoComposicaoBanco.dll

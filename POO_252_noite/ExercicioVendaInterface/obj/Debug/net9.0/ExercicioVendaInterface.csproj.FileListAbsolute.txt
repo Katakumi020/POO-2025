@@ -1,0 +1,15 @@
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\bin\Debug\net9.0\ExercicioVendaInterface.exe
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\bin\Debug\net9.0\ExercicioVendaInterface.deps.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\bin\Debug\net9.0\ExercicioVendaInterface.runtimeconfig.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\bin\Debug\net9.0\ExercicioVendaInterface.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\bin\Debug\net9.0\ExercicioVendaInterface.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\obj\Debug\net9.0\ExercicioVendaInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\obj\Debug\net9.0\ExercicioVendaInterface.AssemblyInfoInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\obj\Debug\net9.0\ExercicioVendaInterface.AssemblyInfo.cs
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\obj\Debug\net9.0\ExercicioVendaInterface.csproj.CoreCompileInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\obj\Debug\net9.0\ExercicioVendaInterface.sourcelink.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\obj\Debug\net9.0\ExercicioVendaInterface.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\obj\Debug\net9.0\refint\ExercicioVendaInterface.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\obj\Debug\net9.0\ExercicioVendaInterface.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\obj\Debug\net9.0\ExercicioVendaInterface.genruntimeconfig.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\ExercicioVendaInterface\obj\Debug\net9.0\ref\ExercicioVendaInterface.dll

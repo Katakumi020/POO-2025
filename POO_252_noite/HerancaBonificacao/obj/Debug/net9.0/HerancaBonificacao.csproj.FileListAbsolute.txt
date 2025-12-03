@@ -1,0 +1,15 @@
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\bin\Debug\net9.0\HerancaBonificacao.exe
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\bin\Debug\net9.0\HerancaBonificacao.deps.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\bin\Debug\net9.0\HerancaBonificacao.runtimeconfig.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\bin\Debug\net9.0\HerancaBonificacao.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\bin\Debug\net9.0\HerancaBonificacao.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\obj\Debug\net9.0\HerancaBonificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\obj\Debug\net9.0\HerancaBonificacao.AssemblyInfoInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\obj\Debug\net9.0\HerancaBonificacao.AssemblyInfo.cs
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\obj\Debug\net9.0\HerancaBonificacao.csproj.CoreCompileInputs.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\obj\Debug\net9.0\HerancaBonificacao.sourcelink.json
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\obj\Debug\net9.0\HerancaBonificacao.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\obj\Debug\net9.0\refint\HerancaBonificacao.dll
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\obj\Debug\net9.0\HerancaBonificacao.pdb
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\obj\Debug\net9.0\HerancaBonificacao.genruntimeconfig.cache
+C:\Users\ale13\Downloads\POO-2025-1\POO_252_noite\HerancaBonificacao\obj\Debug\net9.0\ref\HerancaBonificacao.dll
